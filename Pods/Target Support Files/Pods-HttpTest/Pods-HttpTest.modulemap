@@ -1,0 +1,6 @@
+framework module Pods_HttpTest {
+  umbrella header "Pods-HttpTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
